@@ -1,6 +1,6 @@
 # Day 4: Task Tracker
 
-**Description:**  Build out a table that is able to sort in ascending and descending order in each field with the data provided.
+**Description:**  Build out a Task Tracking app that allows you to enter tasks and track the progress.
 
 ![Design preview for Task Tracker Project](./assets/taskshot.png)
 
@@ -23,7 +23,7 @@
 
 ## Link(s):
 
-[Github-Repo]()
+[Github-Repo](https://github.com/mkheck13/HeckermanMTaskTracker)
 
-[Vercel]()
+[Vercel](https://heckerman-m-task-tracker.vercel.app/)
 
